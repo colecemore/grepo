@@ -204,12 +204,22 @@
 		
 }, {
 		"name": "Santander",
-		"version": "3.2.1",
+		"version": "0.4",
 		"icon": "https://raw.githubusercontent.com/SerenaKit/Santander/main/Santander/Assets.xcassets/AppIcon.appiconset/100.png",
-		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
-		"dev" : "SerenaKit",
-		"category": "SantanderEscaped",
-		"description": "A new, enhanced File Manager for iOS devices",
-		"bundleID": "me.oatmealdome.dolphinios-njb"
+		"down": "https://github.com/haxi0/SantanderEscaped/releases/download/0.4/SantanderEscaped-0.4.ipa",
+		"dev" : "haxi0",
+		"category": "Jailbreaks",
+		"description": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access.",
+		"bundleID": "com.haxi0.santanderescaped"
+		
+}, {
+		"name": "VK++",
+		"version": "5.31.2",
+		"icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/e2/c2/6de2c27c-4c36-0d0d-1845-56b7e58522b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+		"down": "https://dl.orangedox.com/PandaApp/18?dl=1",
+		"dev" : "VK App",
+		"category": "Tweaked Apps",
+		"description": "Клиент VK с новым твиком VK++ с огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы, возможностью изменять цвета и ставить фотографии в меню и диалогах и многим другим.\n\nP.S. Много функций может не работать, твик давно не обновляли.",
+		"bundleID": "com.vk.vkclient.vkm.refresh"
 	}]
 }

@@ -201,5 +201,15 @@
 		"category": "Emulators",
 		"description": "DolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.",
 		"bundleID": "me.oatmealdome.dolphinios-njb"
+		
+}, {
+		"name": "Santander",
+		"version": "3.2.1",
+		"icon": "https://raw.githubusercontent.com/SerenaKit/Santander/main/Santander/Assets.xcassets/AppIcon.appiconset/100.png",
+		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+		"dev" : "SerenaKit",
+		"category": "SantanderEscaped",
+		"description": "A new, enhanced File Manager for iOS devices",
+		"bundleID": "me.oatmealdome.dolphinios-njb"
 	}]
 }

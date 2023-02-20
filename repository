@@ -92,6 +92,7 @@
 		"category": "Emulators",
 		"description": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
 		"bundleID": "com.rileytestut.Delta.Beta"
+		"contact": [
 			"web": "altstore.io",
 			"twitter": "https://twitter.com/rileytestut"
 			

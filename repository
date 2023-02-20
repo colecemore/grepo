@@ -13,7 +13,6 @@
 		"description": "A non-jailbreak and slower version of UTM.",
 		"bundleID": "com.osy.utmse"
 
-
 	}, {
 		"name": "Itorrent",
 		"version": "6",
@@ -92,10 +91,7 @@
 		"category": "Emulators",
 		"description": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
 		"bundleID": "com.rileytestut.Delta.Beta"
-		"contact": [
-			"web": "altstore.io",
-			"twitter": "https://twitter.com/rileytestut"
-		}			
+			
 }, {
 		"name": "UTM",
 		"version": "0.1",
@@ -105,9 +101,7 @@
 		"category": "Emulators",
 		"description": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
 		"bundleID": "com.osy86.UTM"
-		"contact": {
-			"web": "https://getutm.app",
-		}	
+	
 }, {
 		"name": "appdb",
 		"version": "1.0.4",
@@ -176,17 +170,7 @@
 		"category": "Hacked Games",
 		"description": "Features:-Level 13-10000 coin-1000000 gems-Challenger i",
 		"bundleID": "com.supercell.scroll"
-		
-}, {
-		"name": "Beta alert",
-		"version": "3.3024.2",
-		"icon": "data:image/png;base64,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",
-		"down": "https://example.com",
-		"dev" : "NOT AN APP",
-		"category": "Jailbreaks",
-		"description": "The beta repo is currently active meaning new stuff is still in beta!",
-		"bundleID": "com.supercell.scroll"
-		
+	
 }, {
 		"name": "Instagram++",
 		"version": "123.0",
@@ -206,9 +190,16 @@
 		"category": "Jailbreaks",
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
 		"bundleID": "com.leminlimez.cowabunga"
-		"screenshots": [
-			"https://camo.githubusercontent.com/4b1c4cbfeb50edd620dc765a5041725b0f32bd05c9b56037ed628db0055498c7/68747470733a2f2f692e696d6775722e636f6d2f73735a63514e4b2e706e67",
-			"https://pbs.twimg.com/media/FonNuTWXwAQZlL4?format=jpg&name=large"
-		]
+
+	
+}, {
+		"name": "Dolphinios",
+		"version": "3.2.1",
+		"icon": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+		"dev" : "OatmealDome",
+		"category": "Emulators",
+		"description": "DolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.",
+		"bundleID": "me.oatmealdome.dolphinios-njb"
 	}]
 }

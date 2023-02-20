@@ -206,5 +206,9 @@
 		"category": "Jailbreaks",
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
 		"bundleID": "com.leminlimez.cowabunga"
+		"screenshots": [
+			"https://camo.githubusercontent.com/4b1c4cbfeb50edd620dc765a5041725b0f32bd05c9b56037ed628db0055498c7/68747470733a2f2f692e696d6775722e636f6d2f73735a63514e4b2e706e67",
+			"https://pbs.twimg.com/media/FonNuTWXwAQZlL4?format=jpg&name=large"
+		]
 	}]
 }
